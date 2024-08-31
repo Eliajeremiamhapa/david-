@@ -1,0 +1,64 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.menu{
+    width: 100%;
+    min-height: 70px;
+    background-color: pink;
+}
+.left{
+    width: 40%;
+    min-height: 70px;
+    padding-left: 2%;
+    padding-top: 10px;
+    float: left;
+}
+.center{
+    width: 60%;
+    min-height: 70px;
+    line-height: 70px;
+    float: right;
+}
+.search{
+    width: 100%;
+    min-height: 70px;
+    background-color:lightslategray;
+}
+.books{
+    width: 100%;
+    min-height: 700px;
+    background-color:lightgrey;
+}
+.book{
+    width: 100%;
+    min-height: 70px;
+    background-color: white;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+button{
+    width: 100px;
+    min-height: 50px;
+    
+}
+input[type="text"],input[type="email"],input[type="number"],input[type="password"],textarea{
+    width: 80%;
+    padding: 10px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-left: 10%;
+
+
+}
+.wrap{
+    width: 80%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
