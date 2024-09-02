@@ -1,0 +1,66 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+#screen{
+    width: 100%;
+    min-height: 270px;
+    background-color: aqua;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 270px;
+    background-image: url(gg.jpeg);
+    color: white;
+}
+#cont1{
+  
+     width: 100%;
+    min-height: 340px; 
+    background-color: green;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+     grid-template-rows:  100px 100px 100px; 
+    grid-gap: 2%;
+    padding-left: 17%;
+    padding-top: 10px;
+
+}
+#but1{
+    background-color: brown;
+}
+#but2{
+    background-color: brown;
+}
+#but3{
+    background-color: brown;
+}
+#but4{
+    background-color: brown;
+}
+#but5{
+    background-color: brown;
+}
+#but6{
+    background-color: brown;
+}
+#but7{
+    background-color: brown;
+}
+#but{
+    background-color: brown;
+}
+#but1{
+    background-color: brown;
+}
+button{
+    width: 200px;
+    min-height: 100px;
+    background-color: grey;
+}
+.wrapp{
+    width: 70%;
+    margin: auto;
+}
