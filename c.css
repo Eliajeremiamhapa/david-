@@ -1,0 +1,171 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.cont{
+    width: 100%;
+    min-height: 70px;
+    background-color: wheat;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    margin-bottom: 10px;
+    
+}
+ul{
+    display: inline-flex;
+line-height: 70px;
+}
+li{
+    list-style: none;
+    padding-left: 20px;
+}
+.left{
+    padding-left: 3%;
+    line-height: 70px;
+}
+.cont2{
+    width: 100%;
+    min-height: 300px;
+    background-color:gold;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-bottom: 10px;
+}
+.lef{
+    background-color: greenyellow;
+}
+.pic{
+    background-color: salmon;
+    background-image: url(p5.jpg);
+}
+.head{
+    background-color: brown;
+    min-height: 70px;
+}
+.cont3{
+    width: 100%;
+    min-height: 200px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-bottom: 10px;
+}
+.c1{
+    padding-left: 3%;
+}
+.cont4{
+    width: 100%;
+    min-height: 250px;
+    background-color: green;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-bottom: 40px;
+}
+.cont5{
+    width: 100%;
+    min-height: 490px;
+    background-color: lightgrey;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+
+}
+.top1{
+    background-color: hotpink;
+    min-height: 150px;
+    background-image: url(t1.jpg);
+    background-size: 250px 300px;
+}
+.top2{
+    background-color: red;
+    min-height: 150px;
+    background-image: url(t2.jpg);
+    background-size: 250px 300px;
+}
+.top3{
+    background-color: khaki;
+    min-height: 150px;
+    background-image: url(t3.jpg);
+    background-size: 250px 300px;
+}
+.cont6{
+    width: 100%;
+    min-height: 70px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+
+
+}
+.botom{
+    background-color: honeydew;
+    padding-left: 3%;
+}
+h3{
+    padding-top: 20px;
+}
+.ff{
+    width: 120px;
+    min-height: 40px;
+    border-radius: 20px;
+    background-color: green;
+}
+.headd{
+    width: 100%;
+    min-height: 70px;
+    margin-bottom: 20px;
+    padding-left: 2%;
+}
+.picc{
+    min-height: 220px;
+    background-color: hotpink;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: url(picc1.jpg);
+    background-size: 300px 300px;
+
+}
+.expp{
+    padding-left: 20px;
+}
+.head{
+    line-height: 70px;
+    padding-left: 1%;
+    background-color: white;
+}
+
+.lef{
+    padding-left: 2%;
+    background-color: white;
+}
+.explf{
+    padding-left: 2%;
+    
+}
+.but{
+    padding-left: 2%;
+  
+}
+.rr{
+    width: 150px;
+    min-height: 40px;
+    border-radius: 20px;
+    background-color: green;
+
+}
+.leff{
+    background-color: white;
+}
+.wrap{
+    width: 97%;
+    margin: auto;
+
+}
+.wrap1{
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+}
